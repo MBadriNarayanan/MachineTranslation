@@ -1,2 +1,3 @@
 # MachineTranslation
-An English to French Translator using modern NLP techniques
+
+English to French neural machine translator built using modern NLP techniques
